@@ -3,8 +3,8 @@ import requests
 import json
 import threading
 
-ip_address = "18.168.18.15"
-port_number = "8000"
+ip_address = "4.240.89.228"
+port_number = "80"
 time_interval = 10
 
 def send_post_req():
