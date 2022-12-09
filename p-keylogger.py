@@ -3,6 +3,8 @@ import requests
 import json
 import threading
 
+text = ""
+
 ip_address = "4.240.89.228"
 port_number = "80"
 time_interval = 10
