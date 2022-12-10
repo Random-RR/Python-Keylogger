@@ -41,10 +41,10 @@ To setup the keylogger, we used python programming because it is highly versatil
  
 <h3>Demo converting .py to exe</h3>
 <br>
-Check pip version<br><br>
+Check pip version<br>
 <code>pip -V</code><br><br>
-Install pyinstaller<br><br>
-<code>pip install pyinstaller</code>
+Install pyinstaller<br>
+<code>pip install pyinstaller</code><br>
 
 Type the command given below in that PowerShell window.<br>
 <code>pyinstaller --onefile -w 'filename.py'</code>
