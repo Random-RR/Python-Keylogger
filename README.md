@@ -7,11 +7,11 @@ We implement as cloud virtual machine using Microsoft Azure, it was required to 
 
 Properties of the virtual machine
 
-Virtual machine
+Virtual machine<br>
 ![image](https://user-images.githubusercontent.com/78855253/206836508-dfd99182-c2da-4d12-871c-09686beeabef.png)
 
  
-Networking
+Networking<br>
 ![image](https://user-images.githubusercontent.com/78855253/206836509-0730870e-0eee-4d59-b81e-97be62e55e08.png)
 
  
