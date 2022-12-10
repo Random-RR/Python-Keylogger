@@ -59,10 +59,12 @@ https://user-images.githubusercontent.com/93416102/206838374-377f4466-17fa-439f-
 
 <br>
 
-Automatic .py to exe converter<br>
+<h3>Automatic .py to exe converter</h3>
+<br>
+
 [68747470733a2f2f6e6974726174696e652e6e65742f706f7374732f6175746f2d70792d746f2d6578652f666561747572652e706e67](https://user-images.githubusercontent.com/93416102/206843509-6b5ea717-67b6-4a97-819e-fb4c2b7cc2b1.png)
 
-<h3>Installation and Usage</h3><br>
+<h3>Installation and Usage</h3>
 <br>
 You can install this project using PyPI:<br>
 <code>$ pip install auto-py-to-exe</code><br>
@@ -70,7 +72,7 @@ You can install this project using PyPI:<br>
 Then to run it, execute the following in the terminal:<br>
 <code>$ auto-py-to-exe</code><br>
 
-<h3>Installing Via GitHub</h3><br>
+<h3>Installing Via GitHub</h3>
 <code>git clone https://github.com/brentvollebregt/auto-py-to-exe.git</code><br>
 <code>cd auto-py-to-exe</code><br>
 <code>python setup.py install</code><br>
@@ -83,7 +85,7 @@ You can run this project locally by following these steps:<br>
 <br>
 1.Clone/download the repo<br>
 2.Open cmd/terminal and cd into the project<br>
-3.Execute <code>python -m pip install -r requirements.txt</code><br>
+3.Execute <code>python -m pip install -r requirements.txt</code><br><br>
 Now to run the application, execute <code> python -m auto_py_to_exe</code><br>
  
 A Chrome window in app mode will open with the project running inside.
