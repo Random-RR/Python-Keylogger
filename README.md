@@ -68,7 +68,15 @@ Then to run it, execute the following in the terminal:<br>
 Then to run it, execute the following in the terminal:<br>
 <code>auto-py-to-exe</code>
 
-
+<h4>Running Locally Via Github (no install)</h4><br>
+You can run this project locally by following these steps:<br>
+<br>
+1.Clone/download the repo<br>
+2.Open cmd/terminal and cd into the project<br>
+3.Execute <code>python -m pip install -r requirements.txt</code><br>
+Now to run the application, execute <code> python -m auto_py_to_exe</code><br>
+ 
+A Chrome window in app mode will open with the project running inside.
 
 
 
