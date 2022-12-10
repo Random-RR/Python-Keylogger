@@ -31,6 +31,19 @@ Routing table<br>
  
 Demo converting .py to exe 
 
+Install pyinstaller
+<code>pip install pyinstaller</code>
+
+Type the command given below in that PowerShell window. 
+<code>pyinstaller --onefile -w 'filename.py'</code>
+
+In case you get an error at this point in the PowerShell window
+The correction while typing the above command:
+<code>.\pyinstaller --onefile -w 'filename.py'</code>
+
+For any missing package:
+<code>pyinstaller --hidden-import 'package_name' --onefile 'filename.py'</code>
+
 
 https://user-images.githubusercontent.com/93416102/206838374-377f4466-17fa-439f-8785-4c6e846a2226.mp4
 
