@@ -71,8 +71,8 @@ https://user-images.githubusercontent.com/93416102/206838374-377f4466-17fa-439f-
 <h3>Installation and Usage</h3>
 <br>
 You can install this project using PyPI:<br>
-<code>$ pip install auto-py-to-exe</code><br>
-
+<code>$ pip install auto-py-to-exe</code>
+<br>
 Then to run it, execute the following in the terminal:<br>
 <code>$ auto-py-to-exe</code><br>
 
