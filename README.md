@@ -92,6 +92,16 @@ Now to run the application, execute <code> python -m auto_py_to_exe</code><br>
  
 A Chrome window in app mode will open with the project running inside.
 
+<h4>Screenshots</h4>
+<br>
+![image](https://user-images.githubusercontent.com/93416102/206849043-9b48dd91-9496-484c-8773-a820523bd272.png)
+
+![image](https://user-images.githubusercontent.com/93416102/206849050-058dbe36-34a7-477e-a350-e4b93b259234.png)
+
+![image](https://user-images.githubusercontent.com/93416102/206849056-0de2493b-d840-489f-bd90-c09528a20eb7.png)
+
+![image](https://user-images.githubusercontent.com/93416102/206849058-00a152b5-68de-45e4-8aad-78126e2a4d25.png)
+
 
 
 
