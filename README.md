@@ -47,6 +47,29 @@ For any missing package:<br>
 
 https://user-images.githubusercontent.com/93416102/206838374-377f4466-17fa-439f-8785-4c6e846a2226.mp4
 
+<br>
+
+Automatic .py to exe converter<br>
+[68747470733a2f2f6e6974726174696e652e6e65742f706f7374732f6175746f2d70792d746f2d6578652f666561747572652e706e67](https://user-images.githubusercontent.com/93416102/206843509-6b5ea717-67b6-4a97-819e-fb4c2b7cc2b1.png)
+
+<h3>Installation and Usage</h3><br>
+<br>
+You can install this project using PyPI:<br>
+<code>$ pip install auto-py-to-exe</code><br>
+
+Then to run it, execute the following in the terminal:<br>
+<code>$ auto-py-to-exe</code><br>
+
+<h3>Installing Via GitHub</h3><br>
+<code>git clone https://github.com/brentvollebregt/auto-py-to-exe.git</code>
+<code>cd auto-py-to-exe</code>
+<code>python setup.py install</code>
+<br>
+Then to run it, execute the following in the terminal:<br>
+<code>auto-py-to-exe</code>
+
+
+
 
 
 
