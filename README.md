@@ -39,8 +39,8 @@ To setup the keylogger, we used python programming because it is highly versatil
 ![image](https://user-images.githubusercontent.com/78855253/206836526-fe4464ad-be2e-4889-87ea-b9967769758b.png)
  
  
-Demo converting .py to exe 
-
+<h3>Demo converting .py to exe</h3>
+<br>
 Install pyinstaller<br>
 <code>pip install pyinstaller</code>
 
