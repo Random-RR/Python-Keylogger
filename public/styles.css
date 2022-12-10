@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+#user_ip {
+    position: fixed;
+    top: 0em;
+    right: 1.5em;
+    color: rgb(255, 255, 255);
+}
+
+#logo{
+    width: 200px;
+    margin-top: -80px;
+}
+
+.box1 {
+    box-shadow: 0px 5px 10px 5px rgba(0, 155, 255, 0.7);   
+    width: 600px;
+    height: 500px;         
+    border-radius: 25px;
+}
+
+.box1:hover{
+    box-shadow: 0px 10px 12px 8px rgba(0,155,255,0.7);
+  }

@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>The GOD's EYE</title>
+
+	<link rel="stylesheet" href="styles.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	
+	<script>
+	$.getJSON("https://api.ipify.org?format=json", function(data) {
+	
+		$("#user_ip").html(data.ip);
+	})
+	</script>
+
+
+    
+</head>
+
+<body>
+    
+    <p id="user_ip"></p>
+
+	<center>
+        <h1>THE GOD'S EYE</h1>
+        <img id="logo" src="God Eye.png" alt="logo"> 
+    
+        <div class="box1">
+			<h1>Hello</h1>
+			<h1>Hello</h1>
+
+<input type="file" id="myFile">
+<hr>
+<!--<div style="width: 300px;height: 0px" id="output"></div>-->
+<textarea style="width:500px;height: 400px" id="output"></textarea>
+  
+<script>
+var input = document.getElementById("myFile");
+var output = document.getElementById("output");
+  
+input.addEventListener("change", function () {
+    if (this.files && this.files[0]) {
+      var myFile = this.files[0];
+      var reader = new FileReader();
+  
+    reader.addEventListener('load', function (e) {
+        output.textContent = e.target.result;
+      });
+  
+    eader.readAsBinaryString(myFile);
+    }
+  });
+  </script>
+		
+		</div>
+		
+    
+    </center>
+
+</body>
+
+</html>
