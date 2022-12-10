@@ -61,9 +61,9 @@ Then to run it, execute the following in the terminal:<br>
 <code>$ auto-py-to-exe</code><br>
 
 <h3>Installing Via GitHub</h3><br>
-<code>git clone https://github.com/brentvollebregt/auto-py-to-exe.git</code>
-<code>cd auto-py-to-exe</code>
-<code>python setup.py install</code>
+<code>git clone https://github.com/brentvollebregt/auto-py-to-exe.git</code><br>
+<code>cd auto-py-to-exe</code><br>
+<code>python setup.py install</code><br>
 <br>
 Then to run it, execute the following in the terminal:<br>
 <code>auto-py-to-exe</code>
