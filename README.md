@@ -15,17 +15,17 @@ Networking
 ![image](https://user-images.githubusercontent.com/78855253/206836509-0730870e-0eee-4d59-b81e-97be62e55e08.png)
 
  
-Machine Information
+Machine Information<br>
 ![image](https://user-images.githubusercontent.com/78855253/206836518-b9a43e19-2207-43d3-9b9d-874a228948aa.png) 
 
 
 To setup the keylogger, we used python programming because it is highly versatile, so it simplifies our software development process for our keylogger.
 
-Hardware Information
+Hardware Information<br>
  ![image](https://user-images.githubusercontent.com/78855253/206836520-0278ebff-c079-4936-bd22-0ea35fb376b9.png)
  
 
-Routing table
+Routing table<br>
  ![image](https://user-images.githubusercontent.com/78855253/206836526-fe4464ad-be2e-4889-87ea-b9967769758b.png)
  
  
