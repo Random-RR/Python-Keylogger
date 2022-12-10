@@ -31,7 +31,6 @@ Routing table
  
 Demo converting .py to exe 
 
-https://user-images.githubusercontent.com/78855253/206837442-d5433d70-487a-4910-82a4-4024aba2c0a2.mp4
-
+![Convrt py to exe](https://user-images.githubusercontent.com/93416102/206837940-a6011557-e9f3-417d-b3ee-95458f2a54ec.gif)
 
   
